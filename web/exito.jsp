@@ -7,8 +7,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Registro Insertado Correctamente!!!</h1>
+        <h1>Registro Insertado Correctamente!</h1>
         <hr>
-        <a class = "btn  btn-success"href="mostrar.do" >Ver todos los Registro</a>
+        <a class = "btn  btn-success"href="mostrar.do" >Ver todos los Registro....</a>
     </body>
 </html>

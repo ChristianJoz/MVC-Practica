@@ -1,8 +1,5 @@
 <%-- 
-    SIS 22A
-
-    Karla Vanessa 
-    Walmer Esteban
+    Christian Josue
 --%>
 
 <%@page import="modelo.Persona"%>

@@ -6,6 +6,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Dui ya existe ingrese uno nuevo</h1>
+        <h1>Dui coincide con otro registro, es imposible realizar el proceso de registro</h1>
     </body>
 </html>

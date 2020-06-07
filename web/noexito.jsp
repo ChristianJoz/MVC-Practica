@@ -8,6 +8,6 @@
     </head>
     <body>
         <h1>Ocurrio un erro al insertar el registro</h1> <br>
-        <a class = "btn  btn-success"href="index.jsp" >Volver al formulario</a>
+        <a class = "btn  btn-success"href="index.jsp" >Volver al formulario...</a>
     </body>
 </html>
