@@ -1,6 +1,7 @@
 /*
  Christian Josue
 Carlos Daniel
+Marisol Ortiz
  */
 package controlador;
 
